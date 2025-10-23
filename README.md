@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Abhijeet-Dashy/DSA/tree/master/0485-max-consecutive-ones) |
@@ -30,10 +31,15 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
