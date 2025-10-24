@@ -27,6 +27,7 @@
 | [0007-reverse-integer](https://github.com/Abhijeet-Dashy/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,16 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Abhijeet-Dashy/DSA/tree/master/0605-can-place-flowers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
