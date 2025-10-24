@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -16,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
