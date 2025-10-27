@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Abhijeet-Dashy/DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Abhijeet-Dashy/DSA/tree/master/0605-can-place-flowers) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -42,11 +44,13 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Abhijeet-Dashy/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -79,4 +83,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
