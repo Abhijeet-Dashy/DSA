@@ -20,6 +20,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-Dashy/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Abhijeet-Dashy/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Abhijeet-Dashy/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-Dashy/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -59,12 +61,14 @@
 | [0075-sort-colors](https://github.com/Abhijeet-Dashy/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
