@@ -101,6 +101,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhijeet-Dashy/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhijeet-Dashy/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
