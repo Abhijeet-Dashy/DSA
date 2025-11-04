@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Abhijeet-Dashy/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -98,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhijeet-Dashy/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Abhijeet-Dashy/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abhijeet-Dashy/DSA/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/Abhijeet-Dashy/DSA/tree/master/1894-merge-strings-alternately) |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhijeet-Dashy/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
