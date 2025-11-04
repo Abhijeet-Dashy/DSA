@@ -41,6 +41,7 @@
 | [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Abhijeet-Dashy/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -71,6 +72,7 @@
 | [0088-merge-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Abhijeet-Dashy/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abhijeet-Dashy/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Abhijeet-Dashy/DSA/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/Abhijeet-Dashy/DSA/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
