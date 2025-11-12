@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Abhijeet-Dashy/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Abhijeet-Dashy/DSA/tree/master/0485-max-consecutive-ones) |
@@ -181,6 +182,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Abhijeet-Dashy/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
