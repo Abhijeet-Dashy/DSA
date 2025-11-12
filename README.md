@@ -43,6 +43,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhijeet-Dashy/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abhijeet-Dashy/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijeet-Dashy/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abhijeet-Dashy/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abhijeet-Dashy/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
