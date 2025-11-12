@@ -30,6 +30,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Abhijeet-Dashy/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Abhijeet-Dashy/DSA/tree/master/0605-can-place-flowers) |
@@ -53,6 +54,7 @@
 | [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhijeet-Dashy/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/Abhijeet-Dashy/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhijeet-Dashy/DSA/tree/master/0817-design-hashmap) |
@@ -92,6 +94,7 @@
 | [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhijeet-Dashy/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -100,6 +103,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
@@ -156,6 +160,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhijeet-Dashy/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
 ## Simulation
 |  |
@@ -194,6 +199,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -202,6 +208,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -217,4 +224,8 @@
 | ------- |
 | [0816-design-hashset](https://github.com/Abhijeet-Dashy/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhijeet-Dashy/DSA/tree/master/0817-design-hashmap) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
