@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Abhijeet-Dashy/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Abhijeet-Dashy/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0018-4sum) |
@@ -115,6 +116,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhijeet-Dashy/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -145,6 +147,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhijeet-Dashy/DSA/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Abhijeet-Dashy/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0680-valid-palindrome-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhijeet-Dashy/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
