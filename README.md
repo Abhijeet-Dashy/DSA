@@ -46,6 +46,7 @@
 | [0792-binary-search](https://github.com/Abhijeet-Dashy/DSA/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Abhijeet-Dashy/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhijeet-Dashy/DSA/tree/master/0817-design-hashmap) |
+| [0875-koko-eating-bananas](https://github.com/Abhijeet-Dashy/DSA/tree/master/0875-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -97,6 +98,7 @@
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Abhijeet-Dashy/DSA/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Abhijeet-Dashy/DSA/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
