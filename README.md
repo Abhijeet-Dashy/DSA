@@ -96,6 +96,7 @@
 | [0162-find-peak-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhijeet-Dashy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Abhijeet-Dashy/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Abhijeet-Dashy/DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Abhijeet-Dashy/DSA/tree/master/0875-koko-eating-bananas) |
@@ -273,4 +274,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhijeet-Dashy/DSA/tree/master/0020-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Abhijeet-Dashy/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
