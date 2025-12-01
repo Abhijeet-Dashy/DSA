@@ -39,6 +39,7 @@
 | [0238-product-of-array-except-self](https://github.com/Abhijeet-Dashy/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Abhijeet-Dashy/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -102,6 +103,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhijeet-Dashy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhijeet-Dashy/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Abhijeet-Dashy/DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Abhijeet-Dashy/DSA/tree/master/0875-koko-eating-bananas) |
@@ -181,6 +183,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhijeet-Dashy/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Abhijeet-Dashy/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0680-valid-palindrome-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhijeet-Dashy/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -191,6 +194,7 @@
 | [0118-pascals-triangle](https://github.com/Abhijeet-Dashy/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijeet-Dashy/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -228,6 +232,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abhijeet-Dashy/DSA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
