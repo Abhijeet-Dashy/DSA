@@ -20,6 +20,7 @@
 | [0053-maximum-subarray](https://github.com/Abhijeet-Dashy/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhijeet-Dashy/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Abhijeet-Dashy/DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Abhijeet-Dashy/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abhijeet-Dashy/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhijeet-Dashy/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -85,6 +86,7 @@
 | [0007-reverse-integer](https://github.com/Abhijeet-Dashy/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Abhijeet-Dashy/DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Abhijeet-Dashy/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abhijeet-Dashy/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
