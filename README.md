@@ -40,6 +40,7 @@
 | [0229-majority-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Abhijeet-Dashy/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Abhijeet-Dashy/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeet-Dashy/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
@@ -163,6 +164,7 @@
 | [0088-merge-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhijeet-Dashy/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhijeet-Dashy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Abhijeet-Dashy/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeet-Dashy/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0567-permutation-in-string) |
