@@ -96,6 +96,7 @@
 | [0066-plus-one](https://github.com/Abhijeet-Dashy/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abhijeet-Dashy/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Abhijeet-Dashy/DSA/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijeet-Dashy/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abhijeet-Dashy/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -113,6 +114,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeet-Dashy/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Abhijeet-Dashy/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhijeet-Dashy/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0540-single-element-in-a-sorted-array) |
