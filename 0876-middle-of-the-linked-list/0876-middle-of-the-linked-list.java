@@ -18,22 +18,21 @@ class Solution {
             temp = temp.next;
         }
         temp = head;
-        for(int i=0; i<=count/2; i++){
+        if(count%2 != 0){
+            for(int i=0; i<=count/2; i++){
                 if(i == count/2){
                     return temp;
                 }
                 temp = temp.next;
+            }
+        }else{
+            for(int i=0; i<=count/2+1; i++){
+                if(i == count/2){
+                    return temp;
+                }
+                temp = temp.next;
+            }
         }
-        
-            
-        // }else{
-        //     for(int i=0; i<=count/2+1; i++){
-        //         if(i == count/2){
-        //             return temp;
-        //         }
-        //         temp = temp.next;
-        //     }
-        // }
         return temp;
     }
 }
