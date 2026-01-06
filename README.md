@@ -181,6 +181,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeet-Dashy/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Abhijeet-Dashy/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Abhijeet-Dashy/DSA/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhijeet-Dashy/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -273,6 +274,7 @@
 | [0206-reverse-linked-list](https://github.com/Abhijeet-Dashy/DSA/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/Abhijeet-Dashy/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhijeet-Dashy/DSA/tree/master/0817-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Abhijeet-Dashy/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
