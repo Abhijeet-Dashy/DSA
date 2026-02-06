@@ -56,6 +56,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Abhijeet-Dashy/DSA/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/Abhijeet-Dashy/DSA/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/Abhijeet-Dashy/DSA/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Abhijeet-Dashy/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhijeet-Dashy/DSA/tree/master/0817-design-hashmap) |
@@ -95,6 +96,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Abhijeet-Dashy/DSA/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/Abhijeet-Dashy/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhijeet-Dashy/DSA/tree/master/0817-design-hashmap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -151,6 +153,7 @@
 | [0136-single-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Abhijeet-Dashy/DSA/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeet-Dashy/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhijeet-Dashy/DSA/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Abhijeet-Dashy/DSA/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
