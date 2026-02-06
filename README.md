@@ -18,6 +18,7 @@
 | [0035-search-insert-position](https://github.com/Abhijeet-Dashy/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Abhijeet-Dashy/DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Abhijeet-Dashy/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abhijeet-Dashy/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Abhijeet-Dashy/DSA/tree/master/0053-maximum-subarray) |
@@ -79,6 +80,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijeet-Dashy/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abhijeet-Dashy/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhijeet-Dashy/DSA/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Abhijeet-Dashy/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abhijeet-Dashy/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhijeet-Dashy/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeet-Dashy/DSA/tree/master/0128-longest-consecutive-sequence) |
