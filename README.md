@@ -46,6 +46,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhijeet-Dashy/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeet-Dashy/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
@@ -128,6 +129,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhijeet-Dashy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeet-Dashy/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Abhijeet-Dashy/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhijeet-Dashy/DSA/tree/master/0374-guess-number-higher-or-lower) |
@@ -146,6 +148,7 @@
 | [0090-subsets-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +198,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhijeet-Dashy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeet-Dashy/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhijeet-Dashy/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeet-Dashy/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Abhijeet-Dashy/DSA/tree/master/0455-assign-cookies) |
