@@ -355,6 +355,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhijeet-Dashy/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhijeet-Dashy/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/Abhijeet-Dashy/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhijeet-Dashy/DSA/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -376,6 +377,7 @@
 | [0020-valid-parentheses](https://github.com/Abhijeet-Dashy/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Abhijeet-Dashy/DSA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Abhijeet-Dashy/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhijeet-Dashy/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeet-Dashy/DSA/tree/master/0234-palindrome-linked-list) |
 ## Interactive
 |  |
@@ -395,4 +397,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhijeet-Dashy/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhijeet-Dashy/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
