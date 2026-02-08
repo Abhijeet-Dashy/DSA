@@ -354,6 +354,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abhijeet-Dashy/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0816-design-hashset](https://github.com/Abhijeet-Dashy/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhijeet-Dashy/DSA/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -374,6 +375,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhijeet-Dashy/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Abhijeet-Dashy/DSA/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Abhijeet-Dashy/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeet-Dashy/DSA/tree/master/0234-palindrome-linked-list) |
 ## Interactive
 |  |
@@ -389,4 +391,8 @@
 | [0039-combination-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0090-subsets-ii) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abhijeet-Dashy/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
