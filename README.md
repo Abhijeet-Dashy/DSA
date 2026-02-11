@@ -122,6 +122,7 @@
 | [0367-valid-perfect-square](https://github.com/Abhijeet-Dashy/DSA/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijeet-Dashy/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2396-strictly-palindromic-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abhijeet-Dashy/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Binary Search
 |  |
@@ -219,6 +220,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Abhijeet-Dashy/DSA/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhijeet-Dashy/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -405,4 +407,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhijeet-Dashy/DSA/tree/master/0496-next-greater-element-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
