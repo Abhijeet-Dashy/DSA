@@ -67,6 +67,7 @@
 | [0875-koko-eating-bananas](https://github.com/Abhijeet-Dashy/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Abhijeet-Dashy/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhijeet-Dashy/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhijeet-Dashy/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhijeet-Dashy/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -150,6 +151,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Abhijeet-Dashy/DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Abhijeet-Dashy/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhijeet-Dashy/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhijeet-Dashy/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -322,6 +324,7 @@
 | [0238-product-of-array-except-self](https://github.com/Abhijeet-Dashy/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhijeet-Dashy/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
@@ -347,6 +350,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhijeet-Dashy/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhijeet-Dashy/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
