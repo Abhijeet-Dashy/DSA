@@ -108,6 +108,7 @@
 | [0645-set-mismatch](https://github.com/Abhijeet-Dashy/DSA/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/Abhijeet-Dashy/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhijeet-Dashy/DSA/tree/master/0817-design-hashmap) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeet-Dashy/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
@@ -249,6 +250,7 @@
 | [0567-permutation-in-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijeet-Dashy/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeet-Dashy/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Abhijeet-Dashy/DSA/tree/master/1894-merge-strings-alternately) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhijeet-Dashy/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
@@ -351,6 +353,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Abhijeet-Dashy/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeet-Dashy/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhijeet-Dashy/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
