@@ -251,6 +251,7 @@
 | [0058-length-of-last-word](https://github.com/Abhijeet-Dashy/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Abhijeet-Dashy/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Abhijeet-Dashy/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Abhijeet-Dashy/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Abhijeet-Dashy/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0344-reverse-string) |
@@ -284,6 +285,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijeet-Dashy/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Abhijeet-Dashy/DSA/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -434,6 +436,7 @@
 | [0039-combination-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Abhijeet-Dashy/DSA/tree/master/0131-palindrome-partitioning) |
 ## Queue
 |  |
 | ------- |
