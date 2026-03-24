@@ -405,6 +405,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Abhijeet-Dashy/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0816-design-hashset](https://github.com/Abhijeet-Dashy/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhijeet-Dashy/DSA/tree/master/0817-design-hashmap) |
+| [0901-online-stock-span](https://github.com/Abhijeet-Dashy/DSA/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -428,6 +429,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Abhijeet-Dashy/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhijeet-Dashy/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Abhijeet-Dashy/DSA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Abhijeet-Dashy/DSA/tree/master/0901-online-stock-span) |
 ## Interactive
 |  |
 | ------- |
@@ -453,6 +455,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhijeet-Dashy/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Abhijeet-Dashy/DSA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Abhijeet-Dashy/DSA/tree/master/0901-online-stock-span) |
 ## Brainteaser
 |  |
 | ------- |
@@ -461,4 +464,5 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Abhijeet-Dashy/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Abhijeet-Dashy/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
