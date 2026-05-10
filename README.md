@@ -270,6 +270,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Abhijeet-Dashy/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abhijeet-Dashy/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/Abhijeet-Dashy/DSA/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijeet-Dashy/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeet-Dashy/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Abhijeet-Dashy/DSA/tree/master/1894-merge-strings-alternately) |
@@ -303,6 +304,7 @@
 | [0131-palindrome-partitioning](https://github.com/Abhijeet-Dashy/DSA/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Abhijeet-Dashy/DSA/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
