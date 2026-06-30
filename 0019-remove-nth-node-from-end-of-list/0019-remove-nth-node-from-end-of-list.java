@@ -1,5 +1,5 @@
 class Solution {
-    public ListNode removeNthFromEnd(ListNode head, int n) {
+    public ListNode removeNthFromEnd(ListNode head, int n) { // n = posi from end
         int c = 0;
         ListNode temp = head;
         // 1) Count nodes
@@ -18,7 +18,6 @@ class Solution {
         }
         // 4) Remove node
         temp.next = temp.next.next;
-
         return head;
     }
 }
