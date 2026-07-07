@@ -84,6 +84,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhijeet-Dashy/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2498-frog-jump-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/2498-frog-jump-ii) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abhijeet-Dashy/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Hash Table
 |  |
@@ -171,6 +172,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2498-frog-jump-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/2498-frog-jump-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [0605-can-place-flowers](https://github.com/Abhijeet-Dashy/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Abhijeet-Dashy/DSA/tree/master/0881-boats-to-save-people) |
+| [2498-frog-jump-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/2498-frog-jump-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhijeet-Dashy/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
