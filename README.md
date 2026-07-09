@@ -87,6 +87,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhijeet-Dashy/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2498-frog-jump-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/2498-frog-jump-ii) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abhijeet-Dashy/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3467-transform-array-by-parity](https://github.com/Abhijeet-Dashy/DSA/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3467-transform-array-by-parity](https://github.com/Abhijeet-Dashy/DSA/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet-Dashy/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3467-transform-array-by-parity](https://github.com/Abhijeet-Dashy/DSA/tree/master/3467-transform-array-by-parity) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhijeet-Dashy/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
 |  |
