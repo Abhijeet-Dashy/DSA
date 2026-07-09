@@ -85,6 +85,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhijeet-Dashy/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/Abhijeet-Dashy/DSA/tree/master/2418-sort-the-people) |
 | [2498-frog-jump-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/2498-frog-jump-ii) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abhijeet-Dashy/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3467-transform-array-by-parity](https://github.com/Abhijeet-Dashy/DSA/tree/master/3467-transform-array-by-parity) |
@@ -124,6 +125,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeet-Dashy/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2418-sort-the-people](https://github.com/Abhijeet-Dashy/DSA/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2418-sort-the-people](https://github.com/Abhijeet-Dashy/DSA/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/Abhijeet-Dashy/DSA/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
 |  |
@@ -284,6 +287,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhijeet-Dashy/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhijeet-Dashy/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Abhijeet-Dashy/DSA/tree/master/1894-merge-strings-alternately) |
+| [2418-sort-the-people](https://github.com/Abhijeet-Dashy/DSA/tree/master/2418-sort-the-people) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhijeet-Dashy/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
 |  |
