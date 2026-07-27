@@ -45,6 +45,7 @@
 | [0162-find-peak-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhijeet-Dashy/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhijeet-Dashy/DSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Abhijeet-Dashy/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -368,6 +369,7 @@
 | [0048-rotate-image](https://github.com/Abhijeet-Dashy/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhijeet-Dashy/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhijeet-Dashy/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Abhijeet-Dashy/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
@@ -568,6 +570,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhijeet-Dashy/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhijeet-Dashy/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijeet-Dashy/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Abhijeet-Dashy/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abhijeet-Dashy/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhijeet-Dashy/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhijeet-Dashy/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -618,6 +621,7 @@
 | [0112-path-sum](https://github.com/Abhijeet-Dashy/DSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Abhijeet-Dashy/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijeet-Dashy/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Abhijeet-Dashy/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abhijeet-Dashy/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhijeet-Dashy/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Abhijeet-Dashy/DSA/tree/master/0322-coin-change) |
@@ -642,6 +646,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhijeet-Dashy/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhijeet-Dashy/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
