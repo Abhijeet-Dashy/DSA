@@ -75,6 +75,7 @@
 | [0875-koko-eating-bananas](https://github.com/Abhijeet-Dashy/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Abhijeet-Dashy/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/0948-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Abhijeet-Dashy/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhijeet-Dashy/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhijeet-Dashy/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -371,6 +372,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Abhijeet-Dashy/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Abhijeet-Dashy/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Abhijeet-Dashy/DSA/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
@@ -630,6 +632,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhijeet-Dashy/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhijeet-Dashy/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhijeet-Dashy/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Abhijeet-Dashy/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
