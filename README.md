@@ -86,6 +86,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhijeet-Dashy/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Abhijeet-Dashy/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/Abhijeet-Dashy/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhijeet-Dashy/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/Abhijeet-Dashy/DSA/tree/master/2058-concatenation-of-array) |
@@ -390,6 +391,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Abhijeet-Dashy/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhijeet-Dashy/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhijeet-Dashy/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/Abhijeet-Dashy/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Linked List
 |  |
 | ------- |
